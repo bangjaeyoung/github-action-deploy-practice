@@ -9,5 +9,5 @@ public class PracticeGithubActionDeployApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(PracticeGithubActionDeployApplication.class, args);
 	}
-
 }
+// 시작해라!!!!!
